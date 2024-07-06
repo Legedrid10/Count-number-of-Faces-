@@ -1,9 +1,9 @@
-# Count-number-of-Faces
-Prerequisites: Face detection using dlib and openCV
+Count Number of Faces using Python and OpenCV
 
-I used image processing to detect and count the number of faces. We are not supposed to get all the features of the face. Instead, the objective is to obtain the bounding box through some methods i.e. coordinates of the face in the image, depending on different areas covered by the number of the coordinates, number faces that will be computed.
 
-Required libraries:
-OpenCV library in python is a computer vision library, mostly used for image processing, video processing, and analysis, facial recognition and detection, etc.
-Dlib library in python contains the pre-trained facial landmark detector, that is used to detect the (x, y) coordinates that map to facial structures on the face.
-Numpy is a general-purpose array-processing package. It provides a high-performance multidimensional array object and tools for working with these arrays.
+Utilized image processing techniques to detect and count faces in images.
+Employed OpenCV for image processing and analysis, including facial detection.
+Integrated dlib library to use pre-trained facial landmark detectors for identifying facial structures.
+Used Numpy for efficient array processing and manipulation.
+Prerequisites: Proficiency in Python, familiarity with OpenCV and dlib libraries, and understanding of image processing concepts.
+
